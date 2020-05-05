@@ -4,7 +4,8 @@ source 'https://rubygems.org'
 gem 'omniauth-github', github: 'omniauth/omniauth-github', branch: 'master'
 gem 'dotenv-rails'
 
-
+gem 'omniauth'
+gem 'omniauth-facebook'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0'
